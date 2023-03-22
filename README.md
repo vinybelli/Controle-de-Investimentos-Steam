@@ -5,7 +5,7 @@ Aplicativo criado para controlar valores de Investimentos através da API públi
 A ideia principal do projeto é poder comparar meus investimentos realizados na Steam com os valores atuais dos itens!
 
 Para isso eu contei com:
-- Consumação da API pública da Steam;
+- Consumação da API pública da Steam através da biblioteca RestSharp;
 - Consulta em BD local para verificar os Items comprados, as Quatidades compradas, os Valores pagos e as Datas em que foram investidos;
 - Utilização do DataGridView disponibilizado pelo Windows Forms para criar uma tela que apresente meus dados de forma mais organizada e agradável.
 
